@@ -1,0 +1,30 @@
+{
+  "name": "router-admin",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@jyeontu/jvuewheel": "^0.2.5",
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "echarts": "^5.2.2",
+    "element": "^0.1.4",
+    "jquery": "^3.6.0",
+    "koa-server": "^1.2.2",
+    "vue": "^2.6.11",
+    "vue-happy-scroll": "^2.1.1",
+    "vue-router": "^3.5.2",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "d3": "^7.1.1",
+    "less": "^3.0.4",
+    "less-loader": "^5.0.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
